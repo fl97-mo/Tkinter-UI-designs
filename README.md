@@ -5,7 +5,7 @@ A collection of design templates created with Tkinter. Each template offers a un
 ## Available Designs
 
 - **DarkModernBlue**  
-  A sleek dark theme with blue accents.  
+  A dark theme with blue accents.  
   [View DarkModernBlue Details](./DarkModernBlue/README.md)
 
 ## Getting Started
