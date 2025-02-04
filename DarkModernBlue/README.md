@@ -1,7 +1,7 @@
 # DarkModernBlue UI Design
 
 A modern, dark-themed UI design built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
-The **DarkModernBlue** style is characterised by an anthracite background with blue accents and includes various custom widgets such as a text field (password, scrollable), segmented controls, custom radio buttons, drop-down menus, sliders and more.
+The **DarkModernBlue** style with anthracite background, blue accents and includes various custom widgets such as a text field (password, scrollable), segmented controls, custom radio buttons, drop-down menus, sliders and more.
 
 ## Features
 
